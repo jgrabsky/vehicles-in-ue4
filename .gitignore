@@ -1,0 +1,21 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+
+# Ignore all Content except for the game source
+# this will ignore the 3rd party content reference material
+Content/*
+!Content/Drive/
+
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
